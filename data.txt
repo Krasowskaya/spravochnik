@@ -1,0 +1,75 @@
+00
+kkk
+l
+uuiui
+
+vvvvv
+kkk
+-
+87878
+
+hhh
+jjj
+opo
+001
+
+Valeria
+Krasowskaya
+-
+9612917911
+
+V
+K
+R
+911
+
+Valeria
+Krasovskaya
+-
+961 291 7911
+
+N
+M
+F
+01
+
+V
+K
+-
+11
+
+Val
+Kr
+A
+911
+
+Sasha
+Kuku
+Tutu
+007
+
+Kiki
+Do
+u
+777
+
+Gigi
+Hadid
+-
+555 777 09 99
+
+kuk
+kuku
+kukusiki
+0506247373
+
+/usr/local/bin/python3 /Users/macbook/Desktop/Tel.sprav/main.py
+/usr/local/bin/python3 /Users/macbook/Desktop/Tel.sprav/main.py
+/usr/local/bin/python3 /Users/macbook/Desktop/Tel.sprav/main.py
+/usr/local/bin/python3 /Users/macbook/Desktop/Tel.sprav/main.py
+
+jjjj
+
+
+
+
